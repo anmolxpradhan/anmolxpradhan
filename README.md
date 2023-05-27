@@ -81,7 +81,7 @@
  </br>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=anmolxpradhan"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolpradhan556&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolxpradhan&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
      
   </td>
