@@ -42,10 +42,9 @@
 
 
 #### Development
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
 ![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=FLutter)&nbsp;
 <!--      
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) -->
 
@@ -53,6 +52,8 @@
 #### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
+![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=Mongodb)&nbsp;
 
 #### Tools and Technologies
 
